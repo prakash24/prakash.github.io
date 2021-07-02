@@ -3,9 +3,6 @@
 - Low level Design [Solutions](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 - Low Level Design [Resources](https://github.com/prasadgujar/low-level-design-primer/blob/master/resources.md)
 
-Elevator Control System: https://www.cs.cmu.edu/~luluo/Courses/18540PhDreport.pdf
-
-
 # Credits
 Credits and sources are provided throughout this repo.
 
@@ -18,3 +15,4 @@ Special thanks to:
 - [G Balasubramanian](https://github.com/gopalbala)
 - [Udit Agarwal](https://github.com/anomaly2104) 
 
+Elevator Control System: https://www.cs.cmu.edu/~luluo/Courses/18540PhDreport.pdf
