@@ -16,3 +16,8 @@ Special thanks to:
 - [Udit Agarwal](https://github.com/anomaly2104) 
 
 Elevator Control System: https://www.cs.cmu.edu/~luluo/Courses/18540PhDreport.pdf
+
+
+https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg
+
+
